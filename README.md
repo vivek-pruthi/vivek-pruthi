@@ -94,4 +94,4 @@ Building Real-World Data Engineering Projects 🚀
 
 ### 🌟 *"Transforming raw data into reliable pipelines and meaningful insights."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20views\&color=0e75b6\&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=vivek-pruthi\&label=Profile%20views\&color=0e75b6\&style=flat)
